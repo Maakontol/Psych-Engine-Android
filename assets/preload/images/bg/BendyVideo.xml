@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BendyVideo.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bendyVideo idle dance0000" x="0" y="0" width="1920" height="1078"/>
+	<SubTexture name="bendyVideo idle dance0001" x="1920" y="0" width="1920" height="1078"/>
+	<SubTexture name="bendyVideo idle dance0002" x="3840" y="0" width="1920" height="1078"/>
+	<SubTexture name="bendyVideo idle dance0003" x="5760" y="0" width="1920" height="1078"/>
+	<SubTexture name="bendyVideo idle dance0004" x="0" y="1078" width="1920" height="1078"/>
+	<SubTexture name="bendyVideo idle dance0005" x="1920" y="1078" width="1920" height="1078"/>
+	<SubTexture name="bendyVideo idle dance0006" x="3840" y="1078" width="1920" height="1078"/>
+	<SubTexture name="bendyVideo idle dance0007" x="5760" y="1078" width="1920" height="1078"/>
+	<SubTexture name="bendyVideo idle dance0008" x="0" y="2156" width="1920" height="1078"/>
+	<SubTexture name="bendyVideo idle dance0009" x="1920" y="2156" width="1920" height="1078"/>
+	<SubTexture name="bendyVideo idle dance0010" x="3840" y="2156" width="1920" height="1078"/>
+	<SubTexture name="bendyVideo idle dance0011" x="5760" y="2156" width="1920" height="1078"/>
+	<SubTexture name="bendyVideo idle dance0012" x="0" y="3234" width="1920" height="1078"/>
+	<SubTexture name="bendyVideo idle dance0013" x="1920" y="3234" width="1920" height="1078"/>
+</TextureAtlas>
