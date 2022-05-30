@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Racetalk1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Racetraitors0000" x="5" y="5" width="1066" height="647" pivotX="0" pivotY="4.5" frameX="0" frameY="-3" frameWidth="1075" frameHeight="656"/>
+</TextureAtlas>
